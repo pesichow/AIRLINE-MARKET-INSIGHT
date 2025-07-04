@@ -1,4 +1,6 @@
- streamlit
+streamlit
 pandas
 requests
 plotly
+transformers
+torch
